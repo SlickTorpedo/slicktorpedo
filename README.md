@@ -8,3 +8,5 @@
 - 📫 How to reach me: admin@nexussociety.net
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a cool cat
+- 📖 Profile: https://philipehrbright.com
+- ☎️ Discord: Slick#7454
