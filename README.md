@@ -11,4 +11,4 @@
 - 📖 Profile: https://philipehrbright.com
 - ☎️ Discord: Slick#7454
 - 🧠 Cosmos: https://cosmosai.net
-- 💻 Cosmos CubeL https://cosmosai.net/cube
+- 💻 Cosmos Cube: https://cosmosai.net/cube
