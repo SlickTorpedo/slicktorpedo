@@ -7,7 +7,7 @@
 - 💬 Ask me about CosmosAI
 - 📫 How to reach me: admin@nexussociety.net
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a cool cat
+- ⚡ Fun fact: I have a cool cat (And I love cats)
 - 📖 Profile: https://philipehrbright.com
 - ☎️ Discord: Slick#7454
 - 🧠 Cosmos: https://cosmosai.net
