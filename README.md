@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cosmos and Linguflex
+- 🔭 I’m currently working on Mindy
 - 🌱 I’m currently learning how to program C++
-- 🤔 I’m looking for people to come with at CosmosAI
+- 🤔 I’m looking for people to help with Mindy (Hat for people with dementia)
 - 💬 Ask me about what CosmosAI is
 - 📫 How to reach me: admin@cosmosai.net
 - 😄 Pronouns: he/him
