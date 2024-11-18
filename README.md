@@ -6,7 +6,7 @@
 - 💬 Ask me about what CosmosAI is
 - 📫 How to reach me: admin@cosmosai.net
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I know 15 programming languages (And I love cats)
+- ⚡ Fun fact: I’m building an AI-powered beanie called “Mindy” to help people with dementia, right from my dorm room!
 - 📖 Website: https://philipehrbright.com
 - ☎️ Discord: @cosmosai
 - 🧠 Cosmos: https://cosmosai.net
